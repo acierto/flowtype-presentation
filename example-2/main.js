@@ -10,5 +10,5 @@ const pizzas = [
 ];
 
 function vegetarianPizzas() {
-  return _.find(pizzas, {vegetarian: true});
+  return _.ffind(pizzas, {vegetarian: true});
 }
