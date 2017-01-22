@@ -1,0 +1,4 @@
+What you need to do first:
+npm install -g flow-typed
+npm install
+flow-typed install

@@ -1,0 +1,13 @@
+{
+  "author": "Bogdan Nechyporenko",
+  "description": "Flow type presenation Example 2",
+  "name": "flowtype-presentation-example-2",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:acierto/flowtype-presentation.git"
+  },
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
