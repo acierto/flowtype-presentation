@@ -2,7 +2,7 @@
 
 import _ from "lodash";
 
-var pizzas = [
+const pizzas = [
   { title: 'Margherita', vegetarian: true },
   { title: 'Pepperoni', vegetarian: false },
   { title: 'Four cheese', vegetarian: true },
@@ -10,5 +10,5 @@ var pizzas = [
 ];
 
 function vegetarianPizzas() {
-  return _.ffind(pizzas, {vegetarian: true});
+  return _.find(pizzas, {vegetarian: true});
 }

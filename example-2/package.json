@@ -9,5 +9,9 @@
   },
   "dependencies": {
     "lodash": "4.17.4"
+  },
+  "devDependencies": {
+    "flow-bin": "0.38.0",
+    "flow-typed": "2.0.0"
   }
 }

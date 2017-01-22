@@ -1,4 +1,5 @@
-What you need to do first:
-npm install -g flow-typed
-npm install
-flow-typed install
+What you need to do to fix the issue:
+
+`npm install`
+
+`flow-typed install`
