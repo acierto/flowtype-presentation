@@ -1,0 +1,18 @@
+{
+  "author": "Bogdan Nechyporenko",
+  "description": "Flow type presenation Example 5",
+  "name": "flowtype-presentation-example-5",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:acierto/flowtype-presentation.git"
+  },
+  "dependencies": {
+    "ramda": "0.23.0",
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
+  },
+  "devDependencies": {
+    "flow-bin": "0.38.0"
+  }
+}
